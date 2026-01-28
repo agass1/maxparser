@@ -29,7 +29,7 @@ In `main.py`, change only this line:
 
 ```python
 BASE_URL = "https://maximum.md/ru/kompyuternaya-tehnika/monitory/monitory/"
----
+```
 You can replace it with any category URL, e.g.:
 Laptops
 Graphics cards
